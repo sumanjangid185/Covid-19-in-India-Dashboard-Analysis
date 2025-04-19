@@ -39,10 +39,3 @@ The project uses **7 different datasets**, including:
 - Highest first-dose vaccinations: **Over 56 billion**
 - Dominant vaccine: **Covishield**
 
-
-
-**Feel free to fork this repo, contribute improvements, or use it for learning Tableau visualization techniques!**
-
----
-
-If you'd like, I can generate the actual `README.md` file for you with the image embedded. Just let me know your GitHub username and repo name, or I can provide a Markdown file you can directly upload.
